@@ -1,4 +1,4 @@
-# acc-generator
+# energy-calculator
 
 ## Project setup
 ```
